@@ -16,7 +16,7 @@ class MovieController extends Controller
     {
       $movies = Movie::all();
       dd($movies);
-
+      //dany
     }
 
     /**
